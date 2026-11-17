@@ -1,4 +1,4 @@
-const API = 'https://kenyasurveysback.onrender.com/api';
+const API = 'https://surveyback-i1co.onrender.com/api';
 
 // ════════════════════════════════════════════
 // STATE
